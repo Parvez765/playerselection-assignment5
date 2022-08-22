@@ -168,8 +168,6 @@ document.getElementById("calculator-btn").addEventListener("click", function () 
     
     const expenseTotal = playerCalculationValue * count;
     
-    
-    
     expense.innerText = expenseTotal;
     
 })
